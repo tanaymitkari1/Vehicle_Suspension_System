@@ -7,3 +7,6 @@ Simulation of vehicle suspension system in MATLAB and calculating the comfort le
 <h2>Model</h2>
 <img src="pictures/img1.png">
 
+<h3>Ride Quality</h3>
+<img src="pictures/img3.png">
+
