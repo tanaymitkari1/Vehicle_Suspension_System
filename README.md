@@ -10,3 +10,4 @@ Simulation of vehicle suspension system in MATLAB and calculating the comfort le
 <h3>Ride Quality</h3>
 <img src="pictures/img3.png">
 
+<p>In the above figure shows the passenger comfort, more the amplitude less the comfort and less the amplitude more the comfort.</p>
